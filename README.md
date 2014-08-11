@@ -1,6 +1,10 @@
 PatternRecognition
 ====================
 
+Summary
+--------
+
+
 Point
 ------
       public class Point implements Comparable<Point> {
@@ -21,8 +25,8 @@ Brute
 ------
 
 
-assignment requirement
-> http://coursera.cs.princeton.edu/algs4/assignments/collinear.html
+Detailed assignment requirement can be found [here] (
+http://coursera.cs.princeton.edu/algs4/assignments/collinear.html).
 
-checklist
-> http://coursera.cs.princeton.edu/algs4/checklists/collinear.html
+Suggestions and checklist for this assignment can be found [here] (
+http://coursera.cs.princeton.edu/algs4/checklists/collinear.html).
